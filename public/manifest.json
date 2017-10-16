@@ -1,7 +1,7 @@
 {
-  "name": "YO SOY",
-  "short_name": "YO SOY",
-  "description": "Para ti, Guerrer@ de luz",
+  "name": "My App",
+  "short_name": "My App",
+  "description": "My App description",
   "icons": [
     {
       "src": "images/manifest/icon-192x192.png",
